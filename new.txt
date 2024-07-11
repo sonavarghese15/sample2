@@ -1,0 +1,21 @@
+git --version
+git hub > create repository
+clone :
+create folder and open the folder and type cmd in the path.
+git clone (url)           (url from github>code)  now a file is in the folder
+add a new file in the folder 
+cd folder_name
+git status
+git add filename.extension (to add file)
+
+
+[
+  configuration:
+
+git config --global user.email "sonavarghese15@gmail.com"
+git config --global user.name "sonavarghese15"
+
+]
+git  commit -m "add new file"
+git push
+then sign in
