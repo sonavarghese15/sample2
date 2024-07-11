@@ -19,3 +19,11 @@ git config --global user.name "sonavarghese15"
 git  commit -m "add new file"
 git push
 then sign in
+
+to modify the text file....
+
+git status
+git add filename.extension (to add file)
+git  commit -m "add new file"
+git push
+
